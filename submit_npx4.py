@@ -22,7 +22,6 @@ def py_submit(exelines, jobID=None, sublines=None, test=False):
 		randint = np.random.uniform(100000)
 		#jobID = 'npx4-%05d' % randint
 		jobID = 'npx4-{:05f}'.format(randint)
-		#print('jobID = {}'.format(jobID))
 
 	#outexe = '%s/npx4-execs/%s.sh' % (my.npx4, jobID)
 	outexe = '{}/npx4-execs/{}.sh'.format(my.npx4, jobID)
