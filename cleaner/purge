@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd /home/fmcnally/npx4
+rm -rf 2sub.sub
+rm -rf npx4-execs/*
+rm -rf npx4-error/*
+rm -rf npx4-logs/*
+rm -rf npx4-out/* 

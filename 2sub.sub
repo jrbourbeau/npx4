@@ -1,0 +1,8 @@
+Universe = vanilla
+Executable = /home/fmcnally/npx4/npx4-execs/timescramble_IT81-IV_00037.sh
+Log = /home/fmcnally/npx4/npx4-logs/timescramble_IT81-IV_00037.log
+Output = /home/fmcnally/npx4/npx4-out/timescramble_IT81-IV_00037.out
+Error = /home/fmcnally/npx4/npx4-error/timescramble_IT81-IV_00037.error
+Notification = NEVER
+request_memory = 5000
+Queue
