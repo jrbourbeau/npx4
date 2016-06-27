@@ -1,7 +1,7 @@
 Universe = vanilla
-Executable = /home/jbourbeau/npx4/npx4-execs/timescramble_IC86-2013_00013.sh
-Log = /home/jbourbeau/npx4/npx4-logs/timescramble_IC86-2013_00013.log
-Output = /home/jbourbeau/npx4/npx4-out/timescramble_IC86-2013_00013.out
-Error = /home/jbourbeau/npx4/npx4-error/timescramble_IC86-2013_00013.error
+Executable = /home/jbourbeau/npx4/npx4-execs/icetopDST_2015-05-18_p01.sh
+Log = /home/jbourbeau/npx4/npx4-logs/icetopDST_2015-05-18_p01.log
+Output = /home/jbourbeau/npx4/npx4-out/icetopDST_2015-05-18_p01.out
+Error = /home/jbourbeau/npx4/npx4-error/icetopDST_2015-05-18_p01.error
 Notification = Never
 Queue
